@@ -4,7 +4,6 @@ from flask import request
 from flask import redirect
 import user_management as dbHandler
 export FLASK_APP=main.py
-flask run 
 
 # Code snippet for logging a message
 # app.logger.critical("message")
